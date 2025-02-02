@@ -11,17 +11,18 @@ A IA receberá um único PROMPT (simples e pouco focado) e será analisado o que
 
 
 
-## IA (LLMs) que foram testadas (todas de acesso FREE):
+## IAs (LLMs) que foram testadas (todas de acesso FREE):
 
 - ChatGPT (GPT- 4o mini)
 - DeepSeek (R1)
 - DeepSeek (sem R1)
 - Copilot via Github (GPT4)
-- Coplito via Github (Claude 3.5 Sonnet)
+- Copilot via Github (Claude 3.5 Sonnet)
 
 OBS: O Copilot foi adicionado para termos LLMs fora dos principais noticiados para tentar retirar alguns vieses.
 
 ## Bibliotecas usadas
+
 - Chat GPT: pygame, math, sys
 - DeepSeek sem R1: pygame, math, sys
 - DeepSeek R1: pygame e math
