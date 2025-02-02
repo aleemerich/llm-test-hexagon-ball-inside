@@ -27,7 +27,7 @@ OBS: O Copilot foi adicionado para termos LLMs fora dos principais noticiados pa
 - DeepSeek R1: pygame e math
 - Copilot GH Cloude: pygame, math, sys
 
-# Resultado:
+## Resultado:
 
 O DeepSeek R1, ChatGPT com GPT- 4o mini, e o Copilot com Cloude 3.5 deram um código que atendia o desavio já em sua primeira resposta. O DeepSeek sem R1 também chegou lá, mas precisou de 3 prompt extra para pedir algumas correções.
 
@@ -39,6 +39,6 @@ O Copilot, via GitHub, com o GPT4, que é um dos mais usados pelos DEV se não m
 
 
 
-# Conclusão: 
+## Conclusão: 
 
 Eu acredito que nas comparações que estamos vendo por aí, estão faltando algo mais profundo do que apenas defender marcas. Como citei acima, acredito que em uma simulação simples como essa, há pontos importantes a serem levados em consideração além de só vermos o produto final. Esse teste poderia ser extendido a outras LLM para traçar um melhor comparativo, mas por questões de tempo disponível parei por aqui. Se quiserem contribuir, seria muito bacana para evoluirmos
